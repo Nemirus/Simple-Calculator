@@ -1,6 +1,5 @@
-# Simple Calculator
-
-A minimalist Android calculator app built using Java and ViewBinding. Designed for simplicity and quick math operations on the go—no ads, no nonsense.
+# Simple Calculato
+A minimalist Android calculator app built using Java and ViewBinding. Designed for simplicity and quick math operations.
 
 ## Features
 
@@ -12,7 +11,8 @@ A minimalist Android calculator app built using Java and ViewBinding. Designed f
 
 ## Screenshots
 
-*(Add screenshots here when ready)*
+![ss1](ss1.png)
+![ss2](ss2.png)
 
 ## Getting Started
 
