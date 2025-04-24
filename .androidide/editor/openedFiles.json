@@ -1,0 +1,20 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/.projects/Calculator/app/src/main/java/com/nemirus/calculator/MainActivity.java",
+      "selection": {
+        "end": {
+          "column": 45,
+          "index": 5376,
+          "line": 173
+        },
+        "start": {
+          "column": 45,
+          "index": 5376,
+          "line": 173
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/.projects/Calculator/app/src/main/java/com/nemirus/calculator/MainActivity.java"
+}
