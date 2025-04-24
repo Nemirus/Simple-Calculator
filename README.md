@@ -11,8 +11,8 @@ A minimalist Android calculator app built using Java and ViewBinding. Designed f
 
 ## Screenshots
 
-![ss1](ss1.png)
-![ss2](ss2.png)
+![ss1](ss1.jpg)
+![ss2](ss2.jpg)
 
 ## Getting Started
 
