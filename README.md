@@ -24,7 +24,7 @@ To run the project locally:
    git clone https://github.com/Nemirus/Simple-Calculator.git
    ```
 
-2. Open the project in **Android Studio**
+2. Open the project in **Android IDE**
 3. Build & Run on an emulator or physical device
 
 ## Project Structure
